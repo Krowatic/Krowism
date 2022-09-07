@@ -1,9 +1,8 @@
 # <p align="center"> <b>Krowism</b> </p>
 Krowism is a basic Discord.js v13 bot that explores SlashCommands, Database Integrations, Ko-Fi WebHook, and Welcome/Join Messages. As Discod.js v14 is now released,
-a majority of these features and functions within this upload are deprecated.
+a majority of these features and functions within this upload are deprecated and/or outdated.
 
-Therefore, as a majority of these functions and features within this Repo are considered deprecated and/or generally outdated, I will be merging and focusing on a
-new Discord.js v14 project. As such, this repo is posted for achive purposes **as is**
+Therefore, this repo is uploaded <b>as is</b> and is for primarily archive purposes and will not be updated.
 
 # <p align="center"> <b>Requirements</b> </p>
 - Discord.js ^13.6.0
