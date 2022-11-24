@@ -260,7 +260,7 @@ class KofiWebhook extends EventEmitter {
 
         });
 
-        var port = process.env.PORT || 8073
+        var port = process.env.PORT || 8080
         kofi.listen(port, '0.0.0.0', () => {
             console.log(`\x1b[34m[Ko-Fi Webhook]:\x1b[32m Online Successfully!`);
         })
